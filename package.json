@@ -1,0 +1,23 @@
+{
+  "name": "webrtc-api",
+  "version": "1.0.0",
+  "description": "creating webrtc-api",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujit-shaha/resolute-ai-backend.git"
+  },
+  "author": "sujit shaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujit-shaha/resolute-ai-backend/issues"
+  },
+  "homepage": "https://github.com/sujit-shaha/resolute-ai-backend#readme",
+  "dependencies": {
+    "mongoose": "^8.7.0",
+    "socket.io": "^4.8.0"
+  }
+}
